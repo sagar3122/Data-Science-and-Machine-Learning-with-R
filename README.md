@@ -20,5 +20,6 @@ All the csv's are provided inside the respective folders.
 5. K-Nearest-Neighbor
 6. DecisionTrees-RandomForests
 7. Support Vector Machines
-8. Natural Language Processing : Creating a wordcloud of trending words on a topic by mining data from Twitter. Makes use of twitter API and access tokens.
-9. Neural Networks
+8. K-Means Clustering
+9. Natural Language Processing : Creating a wordcloud of trending words on a topic by mining data from Twitter. Makes use of twitter API and access tokens.
+10. Neural Networks
